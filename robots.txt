@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kingdom-of-travel.vercel.app/sitemap.xml
